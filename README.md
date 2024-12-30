@@ -9,6 +9,8 @@ Duration: 12/12/24 to 12/1/25
 Overview of the project :
 
 project: Hotel Booking Management System 
+
+
 <img width="500" alt="Screenshot 2024-12-30 at 12 32 40 PM" src="https://github.com/user-attachments/assets/7a660407-b2f7-4420-b27d-bb590085ec7f" />
 <img width="650" alt="Screenshot 2024-12-30 at 12 33 20 PM" src="https://github.com/user-attachments/assets/5a88118e-33de-4259-9762-480f48272dc0" />
 <img width="500" alt="Screenshot 2024-12-30 at 12 34 18 PM" src="https://github.com/user-attachments/assets/9a985ece-6d2f-4c64-92d9-eb6b3f4706cd" />
